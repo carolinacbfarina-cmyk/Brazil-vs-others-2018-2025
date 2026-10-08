@@ -42,4 +42,4 @@ During the pandemic, Brazil had the highest inflation and the largest rise in fo
 
 ## How to run
 
-Open `brasil_vs_emergentes.ipynb` in Google Colab and run all cells. The notebook downloads the data, builds the summary table and saves the charts (rankings, before/after charts and a summary panel) as PNG files.
+Open `brasil_vs_emergentes_2018-2025.ipynb` in Google Colab and run all cells. The notebook downloads the data, builds the summary table and saves the charts (rankings, before/after charts and a summary panel) as PNG files.
